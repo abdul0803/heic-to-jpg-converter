@@ -3,3 +3,14 @@ __pycache__/
 .DS_Store
 .venv/
 *.log
+
+# Ignore VS Code settings and extensions
+.vscode/
+*.code-workspace
+
+# Ignore all hidden files and folders
+.*
+
+# Ignore node_modules and other common directories
+node_modules/
+
