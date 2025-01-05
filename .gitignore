@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+*.log
+
+.vscode/
+*.code-workspace
+
+.*
+
+node_modules/
+
