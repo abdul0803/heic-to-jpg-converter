@@ -2,9 +2,9 @@ import os
 from PIL import Image
 import pillow_heif
 
-source_folder =  "C:/Users/abdua/OneDrive/projects/heictojpg/input_folder"
+source_folder =  "input file path"
 
-destination_folder ="C:/Users/abdua/OneDrive/projects/heictojpg/output_folder"
+destination_folder ="output file path"
 
 os.makedirs(destination_folder, exist_ok=True)
 
